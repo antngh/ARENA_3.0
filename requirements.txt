@@ -1,8 +1,9 @@
-# PyTorch with CUDA support
---extra-index-url https://download.pytorch.org/whl/cu118
-torch
-torchvision
-torchaudio
+# Comment out PyTorch with CUDA support so that I can install on apple silicon
+# # PyTorch with CUDA support
+# --extra-index-url https://download.pytorch.org/whl/cu118
+# torch
+# torchvision
+# torchaudio
 
 # ML & DL
 huggingface_hub
