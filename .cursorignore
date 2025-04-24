@@ -1,0 +1,3 @@
+# Add paths to files you want Cursor to ignore for suggestions
+# One path per line
+chapter0_fundamentals/exercises/part0_prereqs/answers.py 
